@@ -1,15 +1,11 @@
 Connecting RasaHQ to Slack
 =================================================================
 
-
 ### Jeffrey Jackovich
 ### May, 2018
-
-
+<br>
 # Contents
-
-
-
+<br>
 ## 1. Introduction:  
 
 ### 1.1 Chatbot
