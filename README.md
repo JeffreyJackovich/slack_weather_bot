@@ -1,4 +1,4 @@
-Connecting RasaHQ's Chatbot to Slack
+Connecting RasaHQ to Slack
 =================================================================
 
 ### Jeffrey Jackovich
