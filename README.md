@@ -34,10 +34,10 @@ Incorporate an enterprise chatbot engine (<a href="https://dialogflow.com">Dialo
 
 ## References:
 
-[1] Petraityė, Justina. "Rasa-Slack-Connector." (2018), https://github.com/JustinaPetr/Rasa-Slack-Connector.
+[1] Petraityė, J. (2018). "Rasa-Slack-Connector." Retrieved from https://github.com/JustinaPetr/Rasa-Slack-Connector
 
-[2] Petraityė, Justina. (2018, Feb. 6th). "From zero to hero: Creating a chatbot with Rasa NLU and Rasa Core." Retrieved from: https://jpboost.com/2018/02/06/creating-a-chatbot-with-rasa-nlu-and-rasa-core/
+[2] Petraityė, J. (2018, Feb. 6th). "From zero to hero: Creating a chatbot with Rasa NLU and Rasa Core." Retrieved from https://jpboost.com/2018/02/06/creating-a-chatbot-with-rasa-nlu-and-rasa-core/
 
-[3] rasa_nlu. (2018), https://github.com/RasaHQ/rasa_nlu.
+[3] rasa_nlu. (2018). https://github.com/RasaHQ/rasa_nlu
 
-[4] rasa_core. (2018), https://github.com/RasaHQ/rasa_core.
+[4] rasa_core. (2018). https://github.com/RasaHQ/rasa_core
